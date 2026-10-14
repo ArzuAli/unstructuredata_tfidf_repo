@@ -19,6 +19,7 @@ By the end of this activity, students will be able to:
 | `src/run_activity.py` | End-to-end runnable script |
 | `notebooks/tfidf_activity.ipynb` | Interactive student notebook |
 | `tests/` | Basic unit tests |
+| `task_to_do.txt` | Students task to be performed |
 
 ## ⚙️ Setup
 

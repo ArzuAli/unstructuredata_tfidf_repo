@@ -1,5 +1,4 @@
-# TF-IDF Class Activity (30 Minutes)
-
+# TF-IDF Class Activity 
 A hands-on, programming-based classroom activity for teaching **TF-IDF** and **cosine similarity** using 10 long-text documents.
 
 ## 🎯 Learning Objectives
